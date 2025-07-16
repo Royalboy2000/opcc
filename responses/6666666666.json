@@ -1,0 +1,19 @@
+{
+  "fejlkode": "UGYLDIGT_CPR_NR",
+  "fejlbesked": "Ugyldigt CPR-nummer",
+  "lastName": "",
+  "firstName": "",
+  "country": "",
+  "isoCountryCode": "",
+  "city": "",
+  "address": "",
+  "zipCode": "",
+  "zipCity": "",
+  "protectedUser": "",
+  "traveledOut": "",
+  "foreignAddress1": "",
+  "foreignAddress2": "",
+  "foreignAddress3": "",
+  "foreignAddress4": "",
+  "foreignAddress5": ""
+}
